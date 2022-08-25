@@ -1,18 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-
-@layer base {
-
-    h1 {
-        font-family: 'Rye';
-        color: yellow;
-
-    }
-    p {
-        font-family: 'Noto Serif HK', serif;
-
-
-    }
-}
